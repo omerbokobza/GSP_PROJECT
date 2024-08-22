@@ -10,7 +10,7 @@ In the domain of natural gas network systems, precise state estimation amid meas
 ## Usage
 This code has been tested on Python 3.7.3.
 
-### Prerequisite
+## Prerequisite
 1. PyTorch
 2. scipy
 3. Numpy
