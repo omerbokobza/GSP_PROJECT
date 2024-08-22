@@ -1,4 +1,4 @@
-# Graph Signal Processing PROJECT
+# Graph Signal Processing Project
 --------------------------
 ## Introduction
 
