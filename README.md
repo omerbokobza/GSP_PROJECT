@@ -1,4 +1,4 @@
-# GSP_PROJECT
+# Graph Signal Processing PROJECT
 --------------------------
 ## Introduction
 
